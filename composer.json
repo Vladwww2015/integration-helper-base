@@ -1,0 +1,15 @@
+{
+    "name": "integration-helper/base",
+    "description": "Integration Helper. Base Module",
+    "license": "MIT",
+    "require": {
+        "php": "^8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "IntegrationHelper\\Base\\": ""
+        }
+    },
+    "minimum-stability": "dev",
+    "version": "1.0.0"
+}
