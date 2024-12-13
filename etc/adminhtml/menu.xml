@@ -2,6 +2,6 @@
 
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
     <menu>
-        <add id="IntegrationHelper_Base::integration_helper" title="IntegrationHelper" module="IntegrationHelper_Base" sortOrder="10" resource="IntegrationHelper_Base::base"/>
+        <add id="IntegrationHelper_Base::integration_helper" title="Integration" module="IntegrationHelper_Base" sortOrder="10" resource="IntegrationHelper_Base::base"/>
     </menu>
 </config>
